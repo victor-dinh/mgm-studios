@@ -1,0 +1,22 @@
+{
+  "hosting": {
+    "target": "mgm",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "README.md",
+      "**/.*",
+      "**/node_modules/**",
+      "**/*.md",
+      "**/*.zip",
+      "**/*.cmd",
+      "**/*.ps1",
+      "**/.git/**",
+      "**/.firebase/**",
+      "**/__pycache__/**"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": true
+  }
+}

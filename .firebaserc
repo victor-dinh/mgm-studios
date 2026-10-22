@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "mgm-studios": {
+      "hosting": {
+        "mgm": [
+          "mgm-studios"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
