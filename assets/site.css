@@ -756,7 +756,7 @@ footer {
   }
 
   .cover img {
-    aspect-ratio: 16 / 9;
+    /* aspect-ratio: 16 / 9; */
   }
 
   .site-nav {

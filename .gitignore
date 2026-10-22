@@ -1,0 +1,30 @@
+# Firebase local cache
+.firebase/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build, test, and temporary output
+dist/
+build/
+coverage/
+.cache/
+.tmp/
+tmp/
+*.log
+
+# Editor settings
+.idea/
+.vscode/
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
